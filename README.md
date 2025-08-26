@@ -56,7 +56,9 @@ This project was completed as part of an **internship**, in collaboration with a
 ##  Results
 - Early prediction of CKD with high accuracy  
 - Insights into which medical features are most critical for diagnosis  
-- Visualizations showing patient trends and risk factors  
+- Visualizations showing patient trends and risk factors
+  <img width="979" height="301" alt="image" src="https://github.com/user-attachments/assets/9f3b2518-1949-4c62-8c4d-2cbda50a52c5" />
+
 
 ---
 
