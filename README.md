@@ -68,5 +68,5 @@ This project was completed as part of an **internship**, in collaboration with a
 <img width="1783" height="737" alt="image" src="https://github.com/user-attachments/assets/484c03df-79a3-457b-a0c9-8a61e34a42a7" />
 <img width="934" height="741" alt="image" src="https://github.com/user-attachments/assets/37edc5c1-e19b-41f2-bd19-af7e0360707a" />
 
-
-
+## **Project presentation link:**
+https://drive.google.com/file/d/1YVYd5VlOL9blLF7F_LYlpY0ejqQdyIAc/view?usp=sharing
